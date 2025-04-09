@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-ilandry-ucsb
 
 Running at: <https://jpa03-ilandry-ucsb.dokku-03.cs.ucsb.edu/>
 
